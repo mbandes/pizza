@@ -1,4 +1,10 @@
 Flour
 Salt
 Water
+Olive Oil
+
+garlic
+onions
+peppers
+tomatoes
 
